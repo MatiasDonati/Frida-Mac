@@ -1,3 +1,0 @@
-([('main',
-   '/Users/matiasdonati/Documents/UTN/Programacion_y_Laboratorio/Programacion/Programacion_I/Frida/dist/main',
-   'EXECUTABLE')],)
