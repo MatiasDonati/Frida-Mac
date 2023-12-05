@@ -1,0 +1,20 @@
+{
+  "ingreso_nombre": false,
+  "patron_usuario": "^(?=.*[a-zA-Z])[a-zA-Z0-9 ]{4,}$",
+  "flag_cargar_usuario": false,
+  "segundos": "30",
+  "fin_tiempo": false,
+  "flag_sonido": false,
+  "volumen": 0.5,
+  "sonido_risa_fin_nivel_reproducido": false,
+  "tiempo_inicio_if": null,
+  "enemigo_final_en_accion": false,
+  "pantalla_final_perdido": false,
+  "ruta_gotica": "./fuente/VinaSans-Regular.ttf",
+  "intro": true,
+  "se_rio": false,
+  "flag_run": true,
+  "y_incremento": 0,
+  "flag_final": true,
+  "flag_mensaje_w": false
+}
