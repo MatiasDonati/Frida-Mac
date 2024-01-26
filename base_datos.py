@@ -1,6 +1,5 @@
 import sqlite3
 
-
 def crear_y_cargar_datos(nombre, score):
     with sqlite3.connect('./base/base_datos.db') as conexion:
         try:
